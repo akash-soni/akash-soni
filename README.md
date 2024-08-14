@@ -1,4 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Akash Soni</h1>
+<h3 align="center">Engineer, Product Development. Harman India Pvt. Ltd.🌟.</h3>
+
+<br>
+
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=akash-soni&label=Profile%20views&color=0e75b6&style=flat"
+    alt="akash-soni" /> 
+  </p>
+
+<br>
+
+
 ```
 I-am-akashsoni@github
 -------------------------

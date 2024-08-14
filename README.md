@@ -1,16 +1,15 @@
 ## Hi there 👋
 ```
-I-am-vishalmaurya@github
+I-am-akashsoni@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
+💻 Currently I am working at Harman India pvt ltd a Product Development Engineer.
+🌱 I am actively working in the field of Finance Analytics and Artificial Intelligence
+💬 Currently exploring and working on building GEN AI skills
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
+🌟 Main languages: Python
 🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
 ```
 <!--
 **akash-soni/akash-soni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

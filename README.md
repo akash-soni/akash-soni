@@ -85,4 +85,5 @@
   <img src="https://komarev.com/ghpvc/?username=akash-soni&label=Profile%20Views&color=0e75b6&style=flat" alt="akash-soni" />
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=akash-soni&label=Profile%20Views&color=0e75b6&style=flat)
 

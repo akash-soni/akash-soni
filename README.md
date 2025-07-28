@@ -63,7 +63,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash-soni&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-soni&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=akash-soni&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=akash-soni&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 

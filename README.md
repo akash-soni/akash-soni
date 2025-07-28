@@ -1,41 +1,88 @@
-<h1 align="center">Hi 👋, I'm Akash Soni</h1>
-<h3 align="center">Engineer, Product Development. Harman India Pvt. Ltd.🌟.</h3>
+# 👋 Hi, I'm Akash Soni
 
-<br>
+🎯 Associate - Product Development Engineer @ **Harman India Pvt. Ltd.**
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=akash-soni&label=Profile%20views&color=0e75b6&style=flat"
-    alt="akash-soni" /> 
-  </p>
+🚀 I build **AI-powered fintech and analytics solutions** by combining the power of **Machine Learning, Cloud, and Automation**.  
+📊 Currently working with **Snowflake**, **SAP**, and **Qlik Sense**, while contributing to the development of intelligent fintech applications using **AI**.
 
-<br>
+---
 
+## 🌟 Core Focus Areas
 
-```
-I-am-akashsoni@github
--------------------------
-💻 Currently I am working at Harman India pvt ltd a Product Development Engineer.
-🌱 I am actively working in the field of Finance Analytics and Artificial Intelligence
-💬 Currently exploring and working on building GEN AI skills
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python
-🚩 Interested in Full Stack Machine Learning Application development
-```
-<!--
-**akash-soni/akash-soni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙️ Generative AI (GenAI)
+- 💬 LLMs: OpenAI, Claude, Gemini, Mistral, Mixtral, LLaMA, Falcon  
+- 🔧 Fine-tuning & Prompt Engineering  
+- 🤖 Multi-Agent Systems & LangGraph Workflows  
+- 📄 RAG (Retrieval-Augmented Generation) Pipelines using VectorDBs  
+- 🧪 Tools: LangChain, LlamaIndex, Weights & Biases  
 
-Here are some ideas to get you started:
+### ☁️ Cloud-Native AI & DevOps
+- **Cloud Platform**: AWS (S3, Lambda, EC2, SageMaker, IAM)  
+- **Containerization**: Docker, Kubernetes  
+- **Infrastructure-as-Code**: Terraform (IaC), Ansible  
+- **CI/CD**: GitHub Actions, Jenkins, Git  
+- **Monitoring & Automation**: CloudWatch, Postman, FastAPI  
+- **Deployment Pipelines**: Automated model packaging and deployment  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## 💡 Currently Exploring
+
+- 🔭 Generative AI for fintech document intelligence  
+- ☁️ Cloud-native ML Ops and scalable infrastructure  
+- 📈 Big Data tooling for intelligent analytics  
+- 🧱 Self-hosted multi-agent frameworks with autonomous workflows  
+
+---
+
+## 🧠 Tech Stack Overview
+
+### 👨‍💻 Programming & Web
+- **Language**: Python  
+- **Frameworks**: Flask, Django  
+- **Databases**: SQL, NoSQL (MongoDB), VectorDBs (FAISS, Chroma)  
+
+### 🤖 AI & Data Science
+- **Core**: Statistics, Machine Learning, Deep Learning, NLP, CV  
+- **Skills**: Data Cleaning, EDA, Feature Engineering, Predictive Modeling  
+- **Models**: ANN, CNN, RNN, Transformers  
+- **Techniques**: Supervised/Unsupervised Learning, Clustering, Dimensionality Reduction  
+
+### 🛠️ Tools & Platforms
+- Git, GitHub, GitHub Actions  
+- Postman, Docker, Jenkins  
+- Snowflake, SAP, Qlik Sense  
+- VS Code, Jupyter, W&B, MLflow  
+
+### 🖥️ Operating Systems
+- Windows, Ubuntu  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash-soni&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-soni&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akash-soni&theme=tokyonight)  
+
+---
+
+## 📫 Let's Connect!
+
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:toakashsoni@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/akash-sonii)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com) <!-- Replace when available -->
+
+---
+
+## ✨ Fun Fact
+
+> *"In God we trust, all others must bring data."* – W. Edwards Deming
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akash-soni&label=Profile%20Views&color=0e75b6&style=flat" alt="akash-soni" />
+</p>
 
 

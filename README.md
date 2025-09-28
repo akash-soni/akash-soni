@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akash Soni
 
-🎯 Associate - Product Development Engineer @ **Harman India Pvt. Ltd.**
+🎯 Associate - Product Development Engineer @ **Harman International(India) Pvt. Ltd.**
 
 🚀 I build **AI-powered fintech and analytics solutions** by combining the power of **Machine Learning, Cloud, and Automation**.  
 📊 Currently working with **Snowflake**, **SAP**, and **Qlik Sense**, while contributing to the development of intelligent fintech applications using **AI**.

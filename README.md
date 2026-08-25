@@ -1,82 +1,78 @@
 # 👋 Hi, I'm Akash Soni
 
-🎯 Associate - Product Development Engineer @ **Harman International(India) Pvt. Ltd.**
-
-🚀 I build **AI-powered fintech and analytics solutions** by combining the power of **Machine Learning, Cloud, and Automation**.  
-📊 Currently working with **Snowflake**, **SAP**, and **Qlik Sense**, while contributing to the development of intelligent fintech applications using **AI**.
+🎯 Analyst – Data Scientist @ **Harman International (India) Pvt. Ltd.**
+🚀 I build **end-to-end ML and GenAI systems** — from model development to production deployment — combining **Data Science, MLOps, and Cloud Automation**.
+📊 Currently building an AI-driven **Accounts Receivable forecasting system** (SAP, AWS, MLflow) and exploring **RAG & agentic AI** for fintech applications.
 
 ---
 
 ## 🌟 Core Focus Areas
 
-### ⚙️ Generative AI (GenAI)
-- 💬 LLMs: OpenAI, Claude, Gemini, Mistral, Mixtral, LLaMA, Falcon  
-- 🔧 Fine-tuning & Prompt Engineering  
-- 🤖 Multi-Agent Systems & LangGraph Workflows  
-- 📄 RAG (Retrieval-Augmented Generation) Pipelines using VectorDBs  
-- 🧪 Tools: LangChain, LlamaIndex, Weights & Biases  
+### 🧠 Data Science & Machine Learning
+- 📈 Predictive Modeling: Regression, Classification, Time-Series Forecasting
+- 🔬 Deep Learning: ANN, CNN, RNN, LSTM, Transformers
+- 🧹 Data Cleaning, EDA, Feature Engineering
+- 📊 Statistics & Experimentation
 
-### ☁️ Cloud-Native AI & DevOps
-- **Cloud Platform**: AWS (S3, Lambda, EC2, SageMaker, IAM)  
-- **Containerization**: Docker, Kubernetes  
-- **Infrastructure-as-Code**: Terraform (IaC), Ansible  
-- **CI/CD**: GitHub Actions, Jenkins, Git  
-- **Monitoring & Automation**: CloudWatch, Postman, FastAPI  
-- **Deployment Pipelines**: Automated model packaging and deployment  
+### ⚙️ Generative AI (GenAI)
+- 💬 LLMs: OpenAI, Claude, Gemini, Mistral, Mixtral, LLaMA
+- 🔧 Fine-tuning & Prompt Engineering
+- 🤖 Multi-Agent Systems: LangGraph, AutoGen
+- 📄 RAG Pipelines using Vector DBs (FAISS, ChromaDB, Pinecone, LanceDB, AstraDB)
+- 🧪 Tools: LangChain, LlamaIndex, HuggingFace, Weights & Biases
+
+### ☁️ MLOps & Cloud-Native Deployment
+- **Cloud Platform**: AWS (ECS/Fargate, EKS, Lambda, S3, RDS, SageMaker, Glue, CloudWatch, IAM)
+- **Containerization**: Docker, Kubernetes
+- **Infrastructure-as-Code**: Terraform, Ansible
+- **CI/CD**: GitHub Actions, Jenkins, Git
+- **Experiment Tracking & Monitoring**: MLflow, DVC, CloudWatch
+- **Deployment**: Automated model packaging, serving, and monitoring pipelines
 
 ---
 
-## 💡 Currently Exploring
-
-- 🔭 Generative AI for fintech document intelligence  
-- ☁️ Cloud-native ML Ops and scalable infrastructure  
-- 📈 Big Data tooling for intelligent analytics  
-- 🧱 Self-hosted multi-agent frameworks with autonomous workflows  
+## 💡 Currently Building / Exploring
+- 🏗️ **SmartDocAI** — AI-powered document intelligence platform (RAG, FastAPI, ECS Fargate) → [`akash-soni/SmartDocAI`](https://github.com/akash-soni/SmartDocAI)
+- 🛒 **Ecommerce Product Assistant** — RAG-based product Q&A assistant (LangGraph, AstraDB, EKS) → [`akash-soni/Ecommerce-Product-Assistant`](https://github.com/akash-soni/Ecommerce-Product-Assistant)
+- 💰 Generative AI for fintech document intelligence & forecasting
+- 🧱 Self-hosted, autonomous multi-agent frameworks
 
 ---
 
 ## 🧠 Tech Stack Overview
 
 ### 👨‍💻 Programming & Web
-- **Language**: Python  
-- **Frameworks**: Flask, Django  
-- **Databases**: SQL, NoSQL (MongoDB), VectorDBs (FAISS, Chroma)  
-
-### 🤖 AI & Data Science
-- **Core**: Statistics, Machine Learning, Deep Learning, NLP, CV  
-- **Skills**: Data Cleaning, EDA, Feature Engineering, Predictive Modeling  
-- **Models**: ANN, CNN, RNN, Transformers  
-- **Techniques**: Supervised/Unsupervised Learning, Clustering, Dimensionality Reduction  
+- **Language**: Python
+- **Frameworks**: FastAPI, Flask, Django, Streamlit
+- **Databases**: SQL, NoSQL (MongoDB), Snowflake, Vector DBs (FAISS, ChromaDB, Pinecone, LanceDB, AstraDB)
 
 ### 🛠️ Tools & Platforms
-- Git, GitHub, GitHub Actions  
-- Postman, Docker, Jenkins  
-- Snowflake, SAP, Qlik Sense  
-- VS Code, Jupyter, W&B, MLflow  
+- Git, GitHub, GitHub Actions, Jenkins
+- Docker, Kubernetes, Terraform, Ansible
+- Postman, MLflow, DVC, W&B
+- Snowflake, SAP, Qlik Sense
+- VS Code, Jupyter
 
 ### 🖥️ Operating Systems
-- Windows, Ubuntu  
+- Windows, Ubuntu
 
 ---
 
 ## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash-soni&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-soni&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash-soni&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-soni&layout=compact&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=akash-soni&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
 ## 📫 Let's Connect!
-
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:toakashsoni@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/akash-sonii)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com) <!-- Replace when available -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-sonii)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/akash-soni)
 
 ---
 
 ## ✨ Fun Fact
-
 > *"In God we trust, all others must bring data."* – W. Edwards Deming
 
 ---
@@ -84,4 +80,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akash-soni&label=Profile%20Views&color=0e75b6&style=flat" alt="akash-soni" />
 </p>
-
